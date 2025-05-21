@@ -1,0 +1,12 @@
+# This is a requirements file for a Python project.
+pandas 
+openpyxl 
+whisper 
+torch 
+torchvision 
+torchaudio 
+transformers 
+requests
+openai
+pydub
+python-dotenv
